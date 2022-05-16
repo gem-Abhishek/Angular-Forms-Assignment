@@ -1,0 +1,13 @@
+.container-fluid{
+    background-color: #0eef95;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+}
+
+.form_container{
+    background-color: #2d43eb;
+}
+
+a{
+    color: #17c8f0;
+}
